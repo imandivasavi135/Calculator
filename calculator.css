@@ -1,0 +1,126 @@
+body{
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    align-content: center;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    background-color: whitesmoke;
+    border-radius: 5px;
+    width: 470px;
+    height: 450px;
+}
+.text-field{
+    margin: 15px;
+    height: 50px;
+    width: 430px;
+    border: none;
+    border-radius: 5px;
+    font-size: 25px;
+    box-shadow: inset 0 2px 5px rgba(0,0,0,0.4);
+}
+.mainbutton{
+    display: flex;
+    flex-direction: row;
+}
+.b1{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.btns{
+    margin-left: 15px;
+    height: 58px;
+    width: 90px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+}
+.btnsC{
+    margin-left: 15px;
+    height: 58px;
+    width: 90px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    background-color: orangered;
+}
+.btnsD{
+    margin-left: 15px;
+    height: 58px;
+    width: 90px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    background-color: rgb(49, 49, 212);
+}
+.btnsM{
+    margin-left: 15px;
+    height: 58px;
+    width: 90px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    background-color: rgb(49, 49, 212);
+}
+.btnsA{
+    margin-left: 15px;
+    height: 58px;
+    width: 90px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    background-color: rgb(49, 49, 212);
+}
+.btnsS{
+    margin-left: 15px;
+    height: 58px;
+    width: 90px;
+    border: none;
+    margin-right: 10px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    background-color: rgb(49, 49, 212);
+}
+.long-btn{
+    margin-left: 15px;
+    height: 200px;
+    width: 90px;
+    border: none;
+    margin-right: 20px;
+    margin-bottom: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    cursor: pointer;
+    box-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    background-color: rgb(61, 236, 61);
+}    
+.b2{
+    display: ;
+}
